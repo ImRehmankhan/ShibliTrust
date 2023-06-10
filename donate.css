@@ -1,0 +1,114 @@
+.bannerd{
+    width: 100%;
+    height: 295vh;
+    background-repeat: none;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.746),rgba(0,0,0,0.75)),url("Media file/donatebg.jpg") ;
+}
+.mainbox{
+    background-color: rgb(240, 240, 240);
+    margin: 30px 500px 0px 100px;
+    padding: 0px 0px 50px 0px;
+    text-align: left;
+    
+}
+.sec1{
+    padding: 40px 35px 0px 35px;
+    text-align: center;
+}
+.sec1 h1{
+    color: #222221;
+    margin-bottom: 8px;
+    font-family: "Oswald Medium","HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 2.9375rem;
+    line-height: 1.19149;
+}
+.sec1 p{
+    text-align:left ;
+    font-size: 1.0625rem;
+    line-height: 1.41176;
+    margin-bottom: 48px;
+}
+.sec2{
+    padding: 0px 35px 0px 35px;
+    text-align: left;
+}
+.sec2 h1{
+    color: #222221;
+    margin-bottom: 24px;
+    text-transform: uppercase;
+    font-family: "Oswald Medium","HelveticaNeue-Bold","Helvetica Neue Bold","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.33333;
+}
+.btn{
+    margin: 0px;
+    margin-top:0px;
+    margin-bottom: 20px;
+    font-size: x-large;
+    font-weight: 700;
+    background-color: rgb(180, 178, 178);
+    padding:40px 50px;
+    margin: 15px 5px 0px 5px;
+    border-radius: 15px;
+    border: 5px;
+    text-transform: uppercase;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    size: 10px;
+}
+.btn:hover{
+    background-color: rgba(255,90,0,1);
+}
+.input1{
+    font-size: 1rem;
+    line-height: 1.25;
+    width: 100%;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    color: #4a4f53;
+    background-color: #ffffff;
+    transition: border-color .2s ease-in-out;
+    font-family: "Lato Regular","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+.sub2{
+    margin-top: 80px;
+}
+.sub2 table tr td{
+    padding: 0px 30px 10px 30px;
+}
+select{
+    appearance: none;
+    font-size: 1rem;
+    line-height: 1.25;
+    width: 100%;
+    height: 56px;
+    padding-right: 80px;
+    padding: 10px;
+    border: 1px solid #cdcdcd;
+    border-radius: 6px;
+    color: #4a4f53;
+    background-color: #fff;
+    transition: border-color .2s ease-in-out;
+   
+}
+
+.btnd{
+    background-color: rgba(255,90,0,1);
+    padding: 20px 220px;
+    color: white;
+    
+}
+.btnd:hover{
+    background-color: black;
+    color: white;
+}
+.sec4{
+    margin: 35px 0px 20px 0px;
+    height: 200px;
+}
+.sec4 p{
+    padding: 50px 400px 0px 100px ;
+}

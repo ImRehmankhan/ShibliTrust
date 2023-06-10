@@ -1,0 +1,119 @@
+.bannerabout{
+    width: 100%;
+    height: 60vh;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.587),rgba(0, 0, 0, 0.525)),url("Media file/g7.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navp{
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+}
+.contact_heading{
+    color: white;
+    position: absolute;
+    left: 200px;
+    top: 180px;
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+.headingling{
+    background-color:rgb(255, 128, 0) ;
+    position: relative;
+    left: 210px;
+    top: 150px;
+    padding: 3px 170px;
+    float: left;
+    border-radius: 5px;
+}
+.text_div{
+    position: relative;
+    float: left;
+    left: 100px;
+    top: 100px;
+    text-align: justify;
+    padding: 240px 200px;
+}
+.text_div h4{
+    position: absolute;
+    top: 0px;
+    left: 50px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+.text_div p{
+    position: absolute;
+    top: 80px;
+    left: 0px;
+    font-size: small;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 20px;
+    text-align-last: center;
+}
+ p.contactt{
+    position: absolute;
+    top:240px;
+    text-align: left;
+    left: 55px;
+    line-height: 50px;
+    font-weight: 600;
+
+}
+
+.phone_img{
+    position: absolute;
+    top: 250px;
+    left: 100px;
+}
+.email_img{
+    position: absolute;
+    top: 295px;
+    left: 45px;
+}
+.location_img{
+    position: absolute;
+    top: 350px;
+    left: 15px;
+}
+
+.contact-form{
+    position: relative;
+    float: left;
+    top: 100px;
+    left: 200px;
+    background-color: rgb(237, 246, 248);
+    padding: 250px 320px;
+}
+.inputs{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+   
+}
+.names{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    padding:20px 310px 20px 20px;
+    
+}
+.emails{
+    position: absolute;
+    top: 130px;
+    left: 50px;
+    padding:20px 310px 20px 20px;
+}
+.mess{
+    position: absolute;
+    top: 210px;
+    left: 50px;
+    padding:20px 80px 20px 20px;
+}
+.contact-form button{
+    position: absolute;
+    top: 410px;
+    left: 130px;
+    padding: 15px 30px;
+}

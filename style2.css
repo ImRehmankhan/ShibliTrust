@@ -1,0 +1,315 @@
+.sec-2{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.955),rgba(0, 0, 0, 0.945)),url("Media file/bgg.jpg");
+}
+.obj5-d{
+   float: left;
+   position: absolute;
+   left: 200px;
+   right: 750px; 
+}
+.obj5-d p{
+    color: white;
+    line-height: 30px;
+    font-size: medium;
+    font-weight: 400;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: justify;
+    text-align-last: center;
+}
+.obj5-d h1{
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    font-family: sans-serif;
+    font-size: 40px;
+}
+.obj5-d button{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+}
+.coverphoto{
+    float: right;
+    position: relative;
+    right: 150px;
+    padding-top: 80px;
+    
+}
+.right-div{
+    float: right;
+    position: relative;
+    right: 100px;
+    top: 40px;
+    background-color: #edf3f5;
+    padding: 115px 170px;
+    
+    
+}
+.right-div img{
+    position: relative;
+    top: -80px;
+    right: 150px;
+}
+.headings{
+    font-size: 40px;
+    font-weight: 600;
+    padding-top: 20px;
+}
+.div-left{
+    position: relative;
+    left: 100px;
+    padding-top: 50px;
+}
+.div-left1 h3,.div-left1 p,.div-left1 button{
+    position: absolute;
+    top: 55px;
+    left: 200px;
+}
+.div-left1 p{
+    position: absolute;
+    top: 100px;
+}
+.div-left1 button{
+    position: absolute;
+    top: 150px;
+    left: 75px;
+    background-color: white;
+    color: rgba(255,90,0,1);
+}
+.div-left2 h3,.div-left2 p,.div-left2 button{
+    position: absolute;
+    top: 55px;
+    left: 200px;
+}
+.div-left2 p{
+    position: absolute;
+    top: 100px;
+}
+.div-left2 button{
+    position: absolute;
+    top: 150px;
+    left: 75px;
+    background-color: white;
+    color: rgba(255,90,0,1);
+}
+.div-left3 h3,.div-left3 p,.div-left3 button{
+    position: absolute;
+    top: 55px;
+    left: 200px;
+}
+.div-left3 p{
+    position: absolute;
+    top: 100px;
+}
+.div-left3 button{
+    position: absolute;
+    top: 150px;
+    left: 75px;
+    background-color: white;
+    color: rgba(255,90,0,1);
+}
+.div-left h3{
+    font-weight: 600;
+    letter-spacing: 0.5px;
+
+}
+.right-div h3,.right-div p,.right-div button{
+    position: absolute;
+    top: 55px;
+    left: 300px;
+}
+.right-div h3{
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+.right-div p{
+    position: absolute;
+    top: 100px;
+    right: 20px;
+    line-height: 30px;
+    word-spacing: 5px;
+}
+.right-div button{
+    position: absolute;
+    top: 280px;
+    left: 230px;
+    padding: 15px 30px;
+    color: white;
+}
+.line{
+    background-color: rgba(255,90,0,1);
+    position: absolute;
+    padding: 3px 190px;
+    left: 30px;
+    border-radius: 20px;
+}
+.circle{
+    background-color: rgba(255,90,0,1);
+    position: absolute;
+    padding: 15px 10px;
+    left: 400px;
+    top: 410px;
+    color:white;
+    font-size: small;
+    font-weight: 700;
+    border-radius: 50px;
+}
+.white-line{
+    background-color: rgb(179, 176, 176);
+    position: absolute;
+    padding: 3px 48px;
+    right: 50px;
+    border-radius: 20px;
+    float: right;
+}
+.right-div p.numbers{
+    font-size: medium;
+    font-weight: 200;
+    color: rgba(4, 4, 4, 0.34);
+}
+.right-div p.numbers1{
+    position: relative;
+    top: 42px;
+    left: -130px;
+}
+.right-div p.numbers2{
+    position: relative;
+    top: 15px;
+    left: 270px;
+}
+footer{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.946),rgba(0, 0, 0, 0.889)),url("Media file/fbg.jpg");
+}
+.footerdiv-left{
+    position: relative;
+    padding: 200px 130px;
+    float: left;
+    text-align: center;
+    left: 200px; 
+  
+}
+.footerdiv-left h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 115px;
+}
+#l{
+    color: rgba(255,90,0,1);
+}
+.footerdiv-left p{
+    position: absolute;
+    top: 150px;
+    left: 80px;
+    color: white;
+    text-align: justify;
+    word-spacing: 5px;
+    line-height: 30px;
+    font-size: medium;
+    text-align-last: center;
+}
+.footerdiv-center{
+    position: relative;
+    padding: 200px 180px;
+    float: left;
+    text-align: center;
+    left: 150px;
+   
+}
+.footerdiv-center h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 180px;
+    font-weight: 100;
+    font-size: 25px;
+}
+.footerdiv-center p{
+    position: absolute;
+    top: 150px;
+    left: 180px;
+    color: white;
+    text-align: left;
+    word-spacing: 5px;
+    line-height: 30px;
+    font-weight: 100;
+
+}
+.footerdiv-center p a{
+    font-size: medium;
+}
+.footerdiv-center p a:hover{
+    color: #ff5a00;
+}
+.footerdiv-right{
+    position: relative;
+    padding: 100px 70px;
+    float: left;
+    text-align: center;
+    left: 220px;
+}
+.footerdiv-right h1{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    font-weight: 100;
+    font-size: 25px;
+}
+.footerdiv-right p{
+    position: relative;
+    left: -2px;
+    top: 50px;
+    text-align: left;
+    word-spacing: 5px;
+    line-height: 50px;
+
+}
+.phone-log{
+    position: relative;
+    top: 100px;
+    right: 140px;
+}
+.email-log{
+    position: relative;
+    top: 145px;
+    right: 175px;
+}
+.location-log{
+    position: relative;
+    top: 190px;
+    right: 210px;
+}
+.left-phone-log{
+    position: relative;
+    top: 140px;
+    left: 20px;
+}
+.left-email-log{
+    position: relative;
+    top: 145px;
+    left: 40px;
+}
+.left-location-log{
+    position: relative;
+    top: 140px;
+    left: 60px;
+}
+.left-location-log:hover{
+   width: 40px;
+}
+.left-phone-log:hover{
+    width: 40px;
+ }
+ .left-email-log:hover{
+    width: 50px;
+ }
+.copytagline{
+    position: relative;
+    top: 8px;
+    padding: 10px 500px;
+    float: left;
+    background-color: black;
+}
+
